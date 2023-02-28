@@ -1,4 +1,11 @@
 # PROYECTO-PRACTICO-3
+## OBJETIVO GENERAL
+Comprender el funcionamiento del mini amplificador de sonido y como al unir cada componente permite su funcionamiento sin la necesidad de realizar una programaión previa, analizando la función que cumple cada componente e investigando el como lo hace y de esta manera ir armando paso a paso nuestro circuito para finalmente obtener un mini amplificador con una entrada de cable plug que pueda ser conectada a un celular que es lo que comunmente toda persona tiene.
+
+## OBJETIVO ESPECIFICO 
+-Hacer uso del protoboard para facilitar el armado del circuito
+-Entender como es que es posible el paso del audio y como puede ser amplificado
+-Estudiar las características de los componentes de nuestro circuito
 
 ## Marco Teorico
 
@@ -31,4 +38,7 @@ Cable Plug <br>
 ![Foto de Mauro](https://user-images.githubusercontent.com/116821356/221935449-cda16382-7392-4236-88cb-f9f960510c9a.jpg)
 ![Foto de Mauro (1)](https://user-images.githubusercontent.com/116821356/221935431-6d43c640-2888-4fc2-b37e-13c239f008e6.jpg)
 
-https://drive.google.com/open?id=1X4_ZTVJrBQ-42qyAMabC20dZRV1QJfhJ&usp=drive_copy
+## Conclusiones 
+-Al tener el protoboard como herramienta se facilita la conección de los componentes
+-Mediante el circuito integrado LM386 que es un amplificador de audio se puede conseguir lo antes mencionado 
+-Cada componente es necesario para conseguir que el sonido salga a través de nuestra bocina 
